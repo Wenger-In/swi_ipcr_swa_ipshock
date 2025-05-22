@@ -20,7 +20,7 @@ curr_dir = os.path.dirname(os.path.realpath(__file__))  # 当前文件目录
 swpkg_path = curr_dir + "/../../../"  # swpkg目录
 import matplotlib.font_manager as font_manager
 
-font_manager.fontManager.addfont(swpkg_path + '/swpy/static/font/msyh.ttc')
+# font_manager.fontManager.addfont(swpkg_path + '/swpy/static/font/msyh.ttc')
 
 # matplotlib中文显示
 matplotlib.rcParams['xtick.direction'] = 'in'
