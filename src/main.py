@@ -5,9 +5,9 @@
 """
 ###############################################################################
 import os
-# from swpy.base import glo
-# from swpy.common.project_SWI import split_filename, get_savepath, get_productId
-from sub import *
+from swpy.base import glo
+from swpy.common.project_SWI import split_filename, get_savepath, get_productId
+from src.sub import *
 import onnxruntime as ort
 
 
