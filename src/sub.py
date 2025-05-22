@@ -10,7 +10,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from matplotlib.ticker import MultipleLocator, FormatStrFormatter, AutoMinorLocator
-import netCDF4 as nc
+# import netCDF4 as nc
 from scipy.stats import zscore
 from matplotlib.dates import DateFormatter
 import fnmatch
