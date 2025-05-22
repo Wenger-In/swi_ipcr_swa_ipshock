@@ -1,0 +1,1 @@
+{"product": "swi_ipcr_swa_ipshock", "step": [{"stepName": "数据读取", "stepNo": "0", "status": "0", "log": "完成读取输入数据!", "timeStamp": "2023-02-20T23:37:57+08:00"}, {"stepName": "绘制图像输出参数", "stepNo": "1", "status": "0", "log": "完成图像绘制与生成事件列表！", "timeStamp": "2023-02-20T23:38:02+08:00"}]}

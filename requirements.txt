@@ -1,0 +1,6 @@
+numpy==1.22.3
+scipy==1.7.3
+onnxruntime==1.12.1
+~atplotlib==3.3.4
+matplotlib==3.7.0
+netCDF4==1.6.2
